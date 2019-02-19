@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 41b3a884c5c507a4f9d4faa4cb9a2551
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: B2 Plants
+    100002: Billboards
+    100004: Block1
+    100006: Block1 Plants
+    100008: Block1StreetDetails
+    100010: Block2
+    100012: Block3
+    100014: Block3StreetDetails
+    100016: Block4
+    100018: Block4StreetDetails
+    100020: Glass KC5BG06
+    100022: Glass2KC5BG06
+    100024: Glass2KC6BG01
+    100026: Glass2KC6BG08
+    100028: Glass2KC6BG12
+    100030: Glass2KC6BG17
+    100032: GlassKC6BG01
+    100034: GlassKC6BG02
+    100036: GlassKC6BG03
+    100038: GlassKC6BG04
+    100040: GlassKC6BG05
+    100042: GlassKC6BG06
+    100044: GlassKC6BG07
+    100046: GlassKC6BG08
+    100048: GlassKC6BG09
+    100050: GlassKC6BG10
+    100052: GlassKC6BG11
+    100054: GlassKC6BG12
+    100056: GlassKC6BG13
+    100058: GlassKC6BG14
+    100060: GlassKC6BG15
+    100062: GlassKC6BG16
+    100064: GlassKC6BG17
+    100066: GlassKC6BG18
+    100068: GlassKC6BG19
+    100070: GlassKC6BG21
+    100072: GlassKC6BG23
+    100074: GlassKC6BG24
+    100076: GlassKC6BG26
+    100078: GlassKC6BG27
+    100080: GlassKC6BG31
+    100082: JunkDumpster
+    100084: JunkDumpster01
+    100086: KC5BG06
+    100088: //RootNode
+    100090: KC6BG01
+    100092: KC6BG02
+    100094: KC6BG03
+    100096: KC6BG04
+    100098: KC6BG05
+    100100: KC6BG06
+    100102: KC6BG07
+    100104: KC6BG07 Blinds
+    100106: KC6BG08
+    100108: KC6BG09
+    100110: KC6BG10
+    100112: KC6BG10 decals01
+    100114: KC6BG10 seats
+    100116: KC6BG11
+    100118: KC6BG12
+    100120: KC6BG13
+    100122: KC6BG14
+    100124: KC6BG15
+    100126: KC6BG16
+    100128: KC6BG17
+    100130: KC6BG18
+    100132: KC6BG19
+    100134: KC6BG21
+    100136: KC6BG23
+    100138: KC6BG23 Blinds
+    100140: KC6BG24
+    100142: KC6BG25
+    100144: KC6BG26
+    100146: KC6BG27
+    100148: KC6BG31
+    100150: Park
+    100152: Plane11
+    100154: Plants B3
+    100156: Plants B4
+    100158: StreetDetails B2
+    100160: Tennis court
+    100162: The Zeit
+    400000: B2 Plants
+    400002: Billboards
+    400004: Block1
+    400006: Block1 Plants
+    400008: Block1StreetDetails
+    400010: Block2
+    400012: Block3
+    400014: Block3StreetDetails
+    400016: Block4
+    400018: Block4StreetDetails
+    400020: Glass KC5BG06
+    400022: Glass2KC5BG06
+    400024: Glass2KC6BG01
+    400026: Glass2KC6BG08
+    400028: Glass2KC6BG12
+    400030: Glass2KC6BG17
+    400032: GlassKC6BG01
+    400034: GlassKC6BG02
+    400036: GlassKC6BG03
+    400038: GlassKC6BG04
+    400040: GlassKC6BG05
+    400042: GlassKC6BG06
+    400044: GlassKC6BG07
+    400046: GlassKC6BG08
+    400048: GlassKC6BG09
+    400050: GlassKC6BG10
+    400052: GlassKC6BG11
+    400054: GlassKC6BG12
+    400056: GlassKC6BG13
+    400058: GlassKC6BG14
+    400060: GlassKC6BG15
+    400062: GlassKC6BG16
+    400064: GlassKC6BG17
+    400066: GlassKC6BG18
+    400068: GlassKC6BG19
+    400070: GlassKC6BG21
+    400072: GlassKC6BG23
+    400074: GlassKC6BG24
+    400076: GlassKC6BG26
+    400078: GlassKC6BG27
+    400080: GlassKC6BG31
+    400082: JunkDumpster
+    400084: JunkDumpster01
+    400086: KC5BG06
+    400088: //RootNode
+    400090: KC6BG01
+    400092: KC6BG02
+    400094: KC6BG03
+    400096: KC6BG04
+    400098: KC6BG05
+    400100: KC6BG06
+    400102: KC6BG07
+    400104: KC6BG07 Blinds
+    400106: KC6BG08
+    400108: KC6BG09
+    400110: KC6BG10
+    400112: KC6BG10 decals01
+    400114: KC6BG10 seats
+    400116: KC6BG11
+    400118: KC6BG12
+    400120: KC6BG13
+    400122: KC6BG14
+    400124: KC6BG15
+    400126: KC6BG16
+    400128: KC6BG17
+    400130: KC6BG18
+    400132: KC6BG19
+    400134: KC6BG21
+    400136: KC6BG23
+    400138: KC6BG23 Blinds
+    400140: KC6BG24
+    400142: KC6BG25
+    400144: KC6BG26
+    400146: KC6BG27
+    400148: KC6BG31
+    400150: Park
+    400152: Plane11
+    400154: Plants B3
+    400156: Plants B4
+    400158: StreetDetails B2
+    400160: Tennis court
+    400162: The Zeit
+    2100000: 08 - Default
+    2100002: 01 - Default
+    2100004: 03 - Default
+    2100006: 02 - Default
+    2100008: 07 - Default
+    2100010: 'Material #2487'
+    2100012: 09 - Default
+    2100014: 14 - Default
+    2100016: 15 - Default
+    2100018: 21 - Default
+    2100020: 20 - Default
+    2100022: 'Material #309'
+    2100024: 13 - Default
+    2100026: 10 - Default
+    2100028: 'Material #2486'
+    2100030: 'Material #26'
+    2100032: 'Material #25'
+    2100034: 'Material #28'
+    2100036: 'Material #27'
+    2100038: Glass18reflection
+    2100040: 'Material #29'
+    2100042: 'Material #46'
+    2100044: Glass40reflection
+    2100046: 'Material #58'
+    2100048: 'Material #415'
+    2100050: 'Material #310'
+    2100052: 'Material #311'
+    2100054: 'Material #53'
+    2100056: 19 - Default
+    2100058: 'Material #144'
+    2100060: Default
+    2100062: 'Material #267'
+    2100064: 'Material #36'
+    2100066: 'Material #132'
+    2100068: 'Material #48'
+    2100070: 'Material #47'
+    2100072: 'Material #40'
+    2100074: 22 - Default
+    2100076: 'Material #11385'
+    2100078: 'Material #210'
+    2100080: 'Material #277'
+    2100082: awd
+    2100084: 'Material #49'
+    2100086: 'Material #59'
+    2100088: 'Material #193'
+    2100090: 06 - Default
+    2100092: 'Material #0'
+    2100094: 11 - Default
+    2100096: 05 - Default
+    2100098: 04 - Default
+    2100100: 'Material #12814'
+    2100102: 'Material #30'
+    2100104: 'Material #37'
+    2100106: 'Material #39'
+    2100108: 'Material #41'
+    2100110: 'Material #18683'
+    2100112: 'Material #165'
+    2100114: 'Material #164'
+    2100116: 'Material #89'
+    2100118: 16 - Default
+    2100120: Glass60reflection
+    2100122: 'Material #490'
+    2100124: 'Material #222'
+    2100126: 'Material #223'
+    2100128: 'Material #249'
+    2100130: 'Material #12815'
+    2100132: 'Material #67'
+    2100134: 'Material #104'
+    2100136: 'Material #101'
+    2100138: 'Material #30749'
+    2100140: 'Material #4752'
+    2100142: 'Material #80'
+    2100144: 'Material #1959'
+    2100146: 'Material #1958'
+    2100148: 'Material #248'
+    2100150: 'Material #16143'
+    2100152: 'Material #38'
+    2100154: 'Material #50'
+    2100156: 'Material #157'
+    2100158: 'Material #155'
+    2100160: 'Material #156'
+    2100162: 'Material #154'
+    2300000: B2 Plants
+    2300002: Billboards
+    2300004: Block1
+    2300006: Block1 Plants
+    2300008: Block1StreetDetails
+    2300010: Block2
+    2300012: Block3
+    2300014: Block3StreetDetails
+    2300016: Block4
+    2300018: Block4StreetDetails
+    2300020: Glass KC5BG06
+    2300022: Glass2KC5BG06
+    2300024: Glass2KC6BG01
+    2300026: Glass2KC6BG08
+    2300028: Glass2KC6BG12
+    2300030: Glass2KC6BG17
+    2300032: GlassKC6BG01
+    2300034: GlassKC6BG02
+    2300036: GlassKC6BG03
+    2300038: GlassKC6BG04
+    2300040: GlassKC6BG05
+    2300042: GlassKC6BG06
+    2300044: GlassKC6BG07
+    2300046: GlassKC6BG08
+    2300048: GlassKC6BG09
+    2300050: GlassKC6BG10
+    2300052: GlassKC6BG11
+    2300054: GlassKC6BG12
+    2300056: GlassKC6BG13
+    2300058: GlassKC6BG14
+    2300060: GlassKC6BG15
+    2300062: GlassKC6BG16
+    2300064: GlassKC6BG17
+    2300066: GlassKC6BG18
+    2300068: GlassKC6BG19
+    2300070: GlassKC6BG21
+    2300072: GlassKC6BG23
+    2300074: GlassKC6BG24
+    2300076: GlassKC6BG26
+    2300078: GlassKC6BG27
+    2300080: GlassKC6BG31
+    2300082: JunkDumpster
+    2300084: JunkDumpster01
+    2300086: KC5BG06
+    2300088: KC6BG01
+    2300090: KC6BG02
+    2300092: KC6BG03
+    2300094: KC6BG04
+    2300096: KC6BG05
+    2300098: KC6BG06
+    2300100: KC6BG07
+    2300102: KC6BG07 Blinds
+    2300104: KC6BG08
+    2300106: KC6BG09
+    2300108: KC6BG10
+    2300110: KC6BG10 decals01
+    2300112: KC6BG10 seats
+    2300114: KC6BG11
+    2300116: KC6BG12
+    2300118: KC6BG13
+    2300120: KC6BG14
+    2300122: KC6BG15
+    2300124: KC6BG16
+    2300126: KC6BG17
+    2300128: KC6BG18
+    2300130: KC6BG19
+    2300132: KC6BG21
+    2300134: KC6BG23
+    2300136: KC6BG23 Blinds
+    2300138: KC6BG24
+    2300140: KC6BG25
+    2300142: KC6BG26
+    2300144: KC6BG27
+    2300146: KC6BG31
+    2300148: Park
+    2300150: Plane11
+    2300152: Plants B3
+    2300154: Plants B4
+    2300156: StreetDetails B2
+    2300158: Tennis court
+    2300160: The Zeit
+    3300000: B2 Plants
+    3300002: Billboards
+    3300004: Block1
+    3300006: Block1 Plants
+    3300008: Block1StreetDetails
+    3300010: Block2
+    3300012: Block3
+    3300014: Block3StreetDetails
+    3300016: Block4
+    3300018: Block4StreetDetails
+    3300020: Glass KC5BG06
+    3300022: Glass2KC5BG06
+    3300024: Glass2KC6BG01
+    3300026: Glass2KC6BG08
+    3300028: Glass2KC6BG12
+    3300030: Glass2KC6BG17
+    3300032: GlassKC6BG01
+    3300034: GlassKC6BG02
+    3300036: GlassKC6BG03
+    3300038: GlassKC6BG04
+    3300040: GlassKC6BG05
+    3300042: GlassKC6BG06
+    3300044: GlassKC6BG07
+    3300046: GlassKC6BG08
+    3300048: GlassKC6BG09
+    3300050: GlassKC6BG10
+    3300052: GlassKC6BG11
+    3300054: GlassKC6BG12
+    3300056: GlassKC6BG13
+    3300058: GlassKC6BG14
+    3300060: GlassKC6BG15
+    3300062: GlassKC6BG16
+    3300064: GlassKC6BG17
+    3300066: GlassKC6BG18
+    3300068: GlassKC6BG19
+    3300070: GlassKC6BG21
+    3300072: GlassKC6BG23
+    3300074: GlassKC6BG24
+    3300076: GlassKC6BG26
+    3300078: GlassKC6BG27
+    3300080: GlassKC6BG31
+    3300082: JunkDumpster
+    3300084: JunkDumpster01
+    3300086: KC5BG06
+    3300088: KC6BG01
+    3300090: KC6BG02
+    3300092: KC6BG03
+    3300094: KC6BG04
+    3300096: KC6BG05
+    3300098: KC6BG06
+    3300100: KC6BG07
+    3300102: KC6BG07 Blinds
+    3300104: KC6BG08
+    3300106: KC6BG09
+    3300108: KC6BG10
+    3300110: KC6BG10 decals01
+    3300112: KC6BG10 seats
+    3300114: KC6BG11
+    3300116: KC6BG12
+    3300118: KC6BG13
+    3300120: KC6BG14
+    3300122: KC6BG15
+    3300124: KC6BG16
+    3300126: KC6BG17
+    3300128: KC6BG18
+    3300130: KC6BG19
+    3300132: KC6BG21
+    3300134: KC6BG23
+    3300136: KC6BG23 Blinds
+    3300138: KC6BG24
+    3300140: KC6BG25
+    3300142: KC6BG26
+    3300144: KC6BG27
+    3300146: KC6BG31
+    3300148: Park
+    3300150: Plane11
+    3300152: Plants B3
+    3300154: Plants B4
+    3300156: StreetDetails B2
+    3300158: Tennis court
+    3300160: The Zeit
+    4300000: Block4
+    4300002: KC6BG01
+    4300004: GlassKC6BG01
+    4300006: Glass2KC6BG01
+    4300008: The Zeit
+    4300010: KC6BG31
+    4300012: GlassKC6BG31
+    4300014: KC5BG06
+    4300016: Glass KC5BG06
+    4300018: Glass2KC5BG06
+    4300020: KC6BG26
+    4300022: GlassKC6BG26
+    4300024: KC6BG05
+    4300026: GlassKC6BG05
+    4300028: Block4StreetDetails
+    4300030: Park
+    4300032: Tennis court
+    4300034: Plants B4
+    4300036: KC6BG14
+    4300038: GlassKC6BG14
+    4300040: KC6BG16
+    4300042: GlassKC6BG16
+    4300044: KC6BG08
+    4300046: Glass2KC6BG08
+    4300048: GlassKC6BG08
+    4300050: GlassKC6BG07
+    4300052: KC6BG07
+    4300054: KC6BG07 Blinds
+    4300056: Block1
+    4300058: KC6BG02
+    4300060: GlassKC6BG02
+    4300062: Block1 Plants
+    4300064: KC6BG10
+    4300066: GlassKC6BG10
+    4300068: KC6BG10 seats
+    4300070: KC6BG10 decals01
+    4300072: Block1StreetDetails
+    4300074: KC6BG12
+    4300076: GlassKC6BG12
+    4300078: Glass2KC6BG12
+    4300080: KC6BG06
+    4300082: GlassKC6BG06
+    4300084: KC6BG04
+    4300086: GlassKC6BG04
+    4300088: KC6BG23
+    4300090: GlassKC6BG23
+    4300092: KC6BG03
+    4300094: KC6BG19
+    4300096: GlassKC6BG19
+    4300098: KC6BG24
+    4300100: GlassKC6BG24
+    4300102: KC6BG11
+    4300104: GlassKC6BG11
+    4300106: Block2
+    4300108: StreetDetails B2
+    4300110: B2 Plants
+    4300112: Billboards
+    4300114: GlassKC6BG21
+    4300116: KC6BG21
+    4300118: KC6BG15
+    4300120: GlassKC6BG15
+    4300122: Block3
+    4300124: KC6BG25
+    4300126: KC6BG18
+    4300128: GlassKC6BG18
+    4300130: KC6BG09
+    4300132: GlassKC6BG09
+    4300134: KC6BG17
+    4300136: Glass2KC6BG17
+    4300138: GlassKC6BG17
+    4300140: KC6BG13
+    4300142: GlassKC6BG13
+    4300144: KC6BG27
+    4300146: GlassKC6BG27
+    4300148: Block3StreetDetails
+    4300150: Plants B3
+    4300152: Plane11
+    4300154: JunkDumpster
+    4300156: JunkDumpster01
+    4300158: KC6BG23 Blinds
+    4300160: GlassKC6BG03
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Brake
+  - SpeedUp
+  - Stop
+  - Reset
+  - Car1
+  - Car2
+  - Stop1
+  - Stop2
+  - TriggerCar
+  - Brake1
+  - SpeedUp1
+  - StopTrip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DepthCam
+  - Markiert
+  - Environment
+  - Unvisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DepthCam
+    uniqueID: 320914221
+    locked: 0
